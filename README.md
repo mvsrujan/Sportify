@@ -1,6 +1,9 @@
 # Sportify
 A Standardized Scouting Platform
 
+We intend to create a standardized platform that provides opportunities to players, coaches, and amateur teams at a grassroots level.<br>
+Our website maintains the data of amateur sportspeople and teams. we use this data to connect those looking for opportunities, eliminating the hassle of scouting.
+
 Home Page:
 ![9c27451screenshot_2022_05_22_at_23_04_02_sportify](https://user-images.githubusercontent.com/60063902/170206238-0c4e9ef6-6454-41c9-9c4b-c22a7dda1bea.png)
 
